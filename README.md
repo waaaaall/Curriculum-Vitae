@@ -17,6 +17,7 @@
 - JavaScript
 - MySQL
 - PostgreSQL
+- Go
 
 ### フレームワーク
 
@@ -25,10 +26,18 @@
 - CakePHP
 - Vue.js
   - Gridsome
+- Hugo
+
+### 他
+- Netlify
+- Firebase
+- Heroku
+- VMware
+- Moodle
 
 ## 強み
 - 一気通貫したシステムの作成・運用
-- 事業ドメインを理解した上での課題解決
+- 事業ドメインに基づく課題解決・提案
 
 ## やったことはないが興味があるもの
 CI/CD
