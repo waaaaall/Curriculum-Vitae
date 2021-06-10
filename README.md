@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|嘉部亮太(Ryota Kabe)|
-|HP|https://waaaaall.com/](http://foobar.blog.com)|
+|HP|[https://waaaaall.com](https://waaaaall.com)|
 |Twitter|[@_waaaaall](https://twitter.com/_waaaaall)|
 
 ## スキル
@@ -37,15 +37,15 @@ CI/CD
 職務: Webエンジニア
 
 ※順不同
-#### 受付アプリの改修,保守,運用
+#### 受付アプリの改修・保守・運用
 - 会社玄関にiPadを設置し受付アプリとして運用
 - Twilioを用いてSlack上の専用チャンネルに通知と固定電話もしくは社員携帯へのコールがかかる仕組み
 - 社内チャットツールがHipChatからSlackに移行するにあたって通知周りの改修を行った
 - フロントエンド: HTML,CSS,jQuery
 - バックエンド: Ruby on Rails
 
-#### コーポレートサイトの保守,運用
-- コーポレートサイトの保守と運用
+#### コーポレートサイトの保守・運用
+- コーポレートサイトの保守・運用
 - WordPress,AWS(EC2,S3,Route53等)
 
 #### Twitter ツイート収集ツールの開発・運用
@@ -92,7 +92,8 @@ CI/CD
 - 関連技術: GMOなどのCloud VPS,AWS(EC2,S3,Route53,Erastic IP)
 
 #### 社内ネットワークの整備,保守,運用
-- 社内LANマップの作成
+- 物理インフラの整備
+- 構成図や社内LANマップの作成
 
 #### 開発フローの改善
 - Gitの使い方が整理されておらず曖昧であった
