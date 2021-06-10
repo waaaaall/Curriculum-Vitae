@@ -7,6 +7,8 @@
 |Name|嘉部亮太(Ryota Kabe)|
 |HP|[https://waaaaall.com](https://waaaaall.com)|
 |Twitter|[@_waaaaall](https://twitter.com/_waaaaall)|
+|Qiita|[@waaaaall](https://qiita.com/waaaaall)|
+
 
 ## スキル
 ### 言語
