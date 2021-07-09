@@ -2,6 +2,7 @@
 
 ## 基本情報
 
+|key|value|
 |---|-----|
 |Name|嘉部亮太(Ryota Kabe)|
 |HP|[https://waaaaall.com](https://waaaaall.com)|
